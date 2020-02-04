@@ -1,7 +1,6 @@
 package pl.Danielg;
 
 public class Main {
-  //wyliczyc liczbe PI
   public static void main(String[] args) {
     double cztery = 4;
     System.out.println(cztery * szereg(150000));
