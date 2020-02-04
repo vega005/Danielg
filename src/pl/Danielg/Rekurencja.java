@@ -20,6 +20,6 @@ public class Rekurencja {
       poprosOhaslo();
     }
     //System.out.println(passwordStrength);
-    return password;//zwroc haslo
+    return password;
   }
 }
